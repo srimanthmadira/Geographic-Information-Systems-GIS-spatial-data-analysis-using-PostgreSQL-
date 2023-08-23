@@ -1,2 +1,2 @@
 # Geographic Information Systems (GIS) spatial data analysis using PostgreSQL                                  
-This repo contains the SQL query files and their outputs for the final project questions
+This repository compiles SQL query files and corresponding outputs, providing solutions to various project-related inquiries.
