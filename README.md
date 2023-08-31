@@ -23,6 +23,30 @@
 - Applied advanced indexing techniques to enhance query performance<br />
 - Contributed to a nuanced understanding of New York City's urban landscape<br />
 
+<h2>Project walk-through:</h2>
+
+
+<p align="center">
+Finding Distance Between Locations: <br/>
+<img src="https://i.imgur.com/ocNVceF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Finding number of subway stations around each park:  <br/>
+<img src="https://i.imgur.com/anZnvsx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Finding the water way around the park and area of it: <br/>
+<img src="https://i.imgur.com/DqG3HyR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Optimization of Query:  <br/>
+<img src="https://i.imgur.com/QVbUtI3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+N-Optimization of Query:  <br/>
+<img src="https://i.imgur.com/tHtY5RU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 
 
 <!--
